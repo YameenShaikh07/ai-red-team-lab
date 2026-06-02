@@ -36,7 +36,7 @@ python scripts/prompt_injection_test.py
 
 ## Author
 
-Elliot | AI Security Researcher
+Yameen Shaikh| AI Security Researcher | Penetration Tester | Security Analyst
 
 ## Disclaimer
 
