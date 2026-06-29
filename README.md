@@ -30,7 +30,7 @@ python scripts/prompt_injection_test.py
 
 ## Files
 
-- `scripts/prompt_injection_test.py` - Main attack automation script
+- `scripts/prompt_injection_test.py` - Main attack automation scripts
 - `results/test_results.json` - Attack results and model responses
 - `findings-report.md` - Detailed findings and severity analysis
 
